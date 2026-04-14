@@ -18,9 +18,12 @@ I am a cybersecurity student with a strong interest in **network security, threa
 ### 🔍 Security Tools
 
 * Wireshark
+* BurpSuite
+* MITRE ATT&CK
 * Kali Linux
 * Metasploit
 * OpenVAS
+* Nmap
 * Volatility
 * Redline
 
