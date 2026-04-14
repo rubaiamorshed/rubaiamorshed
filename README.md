@@ -26,6 +26,7 @@ I am a cybersecurity student with a strong interest in **network security, threa
 * Nmap
 * Volatility
 * Redline
+* VirtualBox & Vmware
 
 ### 💻 Technical Knowledge
 
@@ -37,7 +38,7 @@ I am a cybersecurity student with a strong interest in **network security, threa
 
 ### 🧑‍💻 Programming & Systems
 
-* Python (basic)
+* Python 
 * Linux & Windows environments
 * SQL & Database fundamentals
 
