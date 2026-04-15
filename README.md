@@ -49,6 +49,7 @@ I am a cybersecurity student with a strong interest in **network security, threa
 Here are some of the projects I have worked on:
 
 * 🔍 Network Traffic Analysis using Wireshark (Malware, C2, Data Exfiltration)
+* 💉SQL Injection Penetration Testing (Burp Suite)
 * 🛡️ Vulnerability Assessment using OpenVAS & Metasploit
 * 🧠 Memory Forensics using Volatility & Redline
 * 🔐 Threat Intelligence using STIX & OpenIOC
