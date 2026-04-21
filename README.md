@@ -50,7 +50,7 @@ Here are some of the projects I have worked on:
 
 * 🔍 Network Traffic Analysis using Wireshark (Malware, C2, Data Exfiltration)
 * 💉SQL Injection Penetration Testing (Burp Suite)
-* 🛡️ Vulnerability Assessment using OpenVAS & Metasploit
+* 🛡️ Vulnerability Assessment using OpenVAS 
 * 🧠 Memory Forensics using Volatility & Redline
 * 🔐 Threat Intelligence using STIX & OpenIOC
 
