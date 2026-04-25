@@ -52,7 +52,7 @@ Here are some of the projects I have worked on:
 * 💉SQL Injection Penetration Testing (Burp Suite)
 * 🛡️ Vulnerability Assessment using OpenVAS 
 * 🧠 Memory Forensics using Volatility & Redline
-* 🔐 Threat Intelligence using STIX & OpenIOC
+* 🔐 MITRE ATT&CK Threat Analysis & Technique Mapping (ATT&CK Navigator)
 
 👉 Check my repositories below for detailed analysis and reports.
 
