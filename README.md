@@ -51,6 +51,8 @@ Here are some of the projects I have worked on:
 * 🔍 Network Traffic Analysis using Wireshark (Malware, C2, Data Exfiltration)
 * 🛡️ Vulnerability Assessment using OpenVAS 
 * 🔐 MITRE ATT&CK Threat Analysis & Technique Mapping (ATT&CK Navigator)
+* 🥷 Web Application and Linux Security Assessment
+* 🐉 Hydra Challenges
 
 ## 🚀 Upcoming Projects
 * 💉SQL Injection Penetration Testing (Burp Suite)
